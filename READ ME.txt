@@ -1,0 +1,14 @@
+CS401 - Software Engineering
+University of Alaska Anchorage
+Polhemus Group
+
+Chris Gonzales
+Robert Bailey
+Joshua Tester
+
+Dr. Kenrick Mock
+
+Files:
+- Inception Deck
+- User Stories
+- ConsoleApplication2 (Smart chair code)
